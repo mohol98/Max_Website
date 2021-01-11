@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bachelor on Maximilian Holzmüller</title>
+    <link>https://mohol98.github.io/Max_Website/tags/bachelor/</link>
+    <description>Recent content in bachelor on Maximilian Holzmüller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://mohol98.github.io/Max_Website/tags/bachelor/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Bachelor in Business Analytics</title>
+      <link>https://mohol98.github.io/Max_Website/posts/1/01/bachelor-in-business-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohol98.github.io/Max_Website/posts/1/01/bachelor-in-business-analytics/</guid>
+      <description>Details  Institution: University of Arkansas at Little Rock, USA
+Duration: August 2020 - May 2021
+Academic Awards Pages
+Relevant Courses  The following courses are the most interesting and relevant courses in my one-year postbaccalaureate program.
+Analytics Predictive Analytics
+ Using statistical methods (Multiple Regression, ANOVA, Logistic Regression, Quantile Regression, ARIMA) and statistical tools (R and Python) to predict financial and economic outcomes.
+ Marketing Research
+ Using Python and R to predict and test marketing outcomes (A/B testing, Multiple Regression, Clustering, T-Testing).</description>
+    </item>
+    
+  </channel>
+</rss>

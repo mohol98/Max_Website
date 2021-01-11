@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maximilian Holzmüller</title>
+    <link>https://mohol98.github.io/Max_Website/</link>
+    <description>Recent content on Maximilian Holzmüller</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright><atom:link href="https://mohol98.github.io/Max_Website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>High School</title>
+      <link>https://mohol98.github.io/Max_Website/posts/1/01/high-school/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohol98.github.io/Max_Website/posts/1/01/high-school/</guid>
+      <description>Details  Institution: Gymnasium bei St. Anna, Augsburg, Germany
+Duration: September 2008 - June 2016 (8 years)
+GPA: 2.5 (German high school scale)
+About my High School Education  My high school&amp;rsquo;s education was focused on the humanities and offered a wide variety of classes. However, the focus was clearly on languages and social sciences but not limited to those.
+Most memorably, my school offered amazing extracurricular activities that taught me valuable lessons for life.</description>
+    </item>
+    
+    <item>
+      <title>Bachelor in Finance and Economics</title>
+      <link>https://mohol98.github.io/Max_Website/posts/1/01/bachelor-in-finance-and-economics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohol98.github.io/Max_Website/posts/1/01/bachelor-in-finance-and-economics/</guid>
+      <description>Details  Institution: University of Arkansas at Little Rock, USA
+Duration: August 2017 - May 2020
+GPA: 3.88
+Institutional Honors: Magna Cum Laude
+Academic Awards Pages
+ Institution: Cardinal Stritch University, Milwaukee, Wisconsin, USA
+Duration: August 2016 - May 2017 (Freshman year)
+GPA: 3.92
+Relevant Courses  My degrees&#39; most relevant and interesting courses that helped me shape my understanding of Financial and Economic principles and develop business acumen.
+Finance Financial Modeling</description>
+    </item>
+    
+    <item>
+      <title>About me</title>
+      <link>https://mohol98.github.io/Max_Website/about/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohol98.github.io/Max_Website/about/</guid>
+      <description>Background  Born and raised in Germany near Munich, I graduated high school in 2016. Successful in track and field (decathlon), I took on a scholarship opportunity to study in the United States. Completing my freshman year in Milwaukee, I transferred to the University of Arkansas at Little Rock in 2017. I graduated with a Bachelor in Business and Economics and Finance in May 2020 and I am on track to finish my Bachelor in Business Analytics in May 2021.</description>
+    </item>
+    
+    <item>
+      <title>Privacy Policy and Site Notice</title>
+      <link>https://mohol98.github.io/Max_Website/privacy/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohol98.github.io/Max_Website/privacy/</guid>
+      <description>Site Notice Information pursuant to Sect. 5 German Telemedia Act (TMG)
+Maximilian Holzmueller
+Liebfrauenstrasse 13
+86399 Bobingen
+Germany
+Contact Phone: +1 501 349 8937 E-mail: maxholzmueller98@gmail.com
+Responsible for the content according to Sect. 55, paragraph 2 RStV
+Maximilian Holzmueller
+Liebfrauenstrasse 13
+86399 Bobingen
+Germany
+EU dispute resolution The European Commission provides a platform for online dispute resolution (ODR): https://ec.europa.eu/consumers/odr. Our e-mail address can be found above in the site notice.</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://mohol98.github.io/Max_Website/projects/</link>
+      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohol98.github.io/Max_Website/projects/</guid>
+      <description>This is a short summary of extracurricular projects. A more detailed account of the project contents and methods can be found on my GitHub Repo and my YouTube channel where I provide a more detailed explanation.
+Predicting COVID-19 infections  Predicted COVID-19 infections using Google Trends and CDC data with up to 89% accuracy Used Google Collab Notebooks and python to pull, clean, and prepare data frames Visualized relationships using matplotlib Built a linear regression model using sklearn  This project investigates if COVID-19 symptom searches on Google can predict new infections with the virus in the United States.</description>
+    </item>
+    
+    <item>
+      <title>Bachelor in Business Analytics</title>
+      <link>https://mohol98.github.io/Max_Website/posts/1/01/bachelor-in-business-analytics/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohol98.github.io/Max_Website/posts/1/01/bachelor-in-business-analytics/</guid>
+      <description>Details  Institution: University of Arkansas at Little Rock, USA
+Duration: August 2020 - May 2021
+Academic Awards Pages
+Relevant Courses  The following courses are the most interesting and relevant courses in my one-year postbaccalaureate program.
+Analytics Predictive Analytics
+ Using statistical methods (Multiple Regression, ANOVA, Logistic Regression, Quantile Regression, ARIMA) and statistical tools (R and Python) to predict financial and economic outcomes.
+ Marketing Research
+ Using Python and R to predict and test marketing outcomes (A/B testing, Multiple Regression, Clustering, T-Testing).</description>
+    </item>
+    
+    <item>
+      <title>Work Experience</title>
+      <link>https://mohol98.github.io/Max_Website/experience/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://mohol98.github.io/Max_Website/experience/</guid>
+      <description>University of Arkansas at Little Rock Research Assistant Department of Finance and Economics
+December 2020 - current
+ Assisting Economics and Finance Department in research projects. Job function includes reading and analyzing of academic articles and papers, data collection, cleaning, and analysis. Other responsibilities entail proofreading, editing, and contributing to academic research. Currently working on a public health journal article to investigate the seasonality of depression under the influence of COVID-19.</description>
+    </item>
+    
+  </channel>
+</rss>
